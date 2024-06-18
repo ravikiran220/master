@@ -1,6 +1,6 @@
 {
   "id": "/apis/echo-api",
-  "name": "Echo API",
+  "name": "Ravi API",
   "apiRevision": "1",
   "$ref-description": null,
   "subscriptionRequired": true,
